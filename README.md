@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-prasannabalaji121004-00F5D4?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0f2027)](mailto:prasannabalaji121004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-prasanna--r--tech-00F5D4?style=for-the-badge&logo=github&logoColor=black&labelColor=0f2027)](https://github.com/prasanna-r-tech)
 
-<img src="https://profile-counter.glitch.me/prasanna-r-tech/count.svg" alt="profile views" />
+![Profile Views](https://komarev.com/ghpvc/?username=prasanna-r-tech&color=00F5D4&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -150,9 +150,6 @@ Performed data preprocessing, model training & evaluation; developed custom algo
 ## `> ./github_insights.sh`
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=prasanna-r-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=8AFFDA"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna-r-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=8AFFDA"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanna-r-tech&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" width="100%"/>
 
